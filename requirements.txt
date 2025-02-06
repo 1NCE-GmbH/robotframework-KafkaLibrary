@@ -1,2 +1,2 @@
 robotframework >= 2.6.0
-kafka-python
+kafka-python-ng
